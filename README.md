@@ -1,2 +1,2 @@
 # tensorflow_models
-Implementation of popular models in tensorflow.
+Implementation of popular text classification models in tensorflow.
